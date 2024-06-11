@@ -18,6 +18,7 @@ grafonnet.dashboard.new('My Dashboard')
 ## Generate the dashboard
 
 ```console
+cd jsonnet
 jsonnet -J vendor dashboard.jsonnet
 ```
 

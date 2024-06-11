@@ -2,6 +2,7 @@
 # https://github.com/github/gitignore/blob/main/community/Golang/Go.AllowList.gitignore
 #
 # Binaries for programs and plugins
+dashmoica
 *.exe
 *.exe~
 *.dll
@@ -25,4 +26,4 @@ go.work.sum
 .idea/
 
 # Outputs
-output.json
+jsonnet/output.json
