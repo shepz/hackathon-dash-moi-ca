@@ -1,0 +1,9 @@
+slis:
+  - description: Get resource SLO
+    name: get_resource
+    time_slo: 250
+    uptime_slo: 99.9
+  - description: Create resource SLO
+    name: post_resource
+    time_slo: 350
+    uptime_slo: 99.9
